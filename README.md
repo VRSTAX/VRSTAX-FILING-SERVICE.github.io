@@ -1,5 +1,3 @@
-# github.io
-VRS TAX FILING SERVICE 
 !DOCTYPE html>Add commentMore actions
 <html lang="en">
 <head>

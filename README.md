@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       background: #f4f4f4; /* Light yellow background */
-      color: violet; /* Dark content text */
+      color: white; /* Dark content text */
     }
     header {
       background: #002b5c;
@@ -82,7 +82,6 @@
   </style>
 </head>
 <body>
-
   <header>
     <h1>Welcome to VRS Tax Filing Services</h1>			
     <p>Professional GST, TDS, TCS, and Income Tax Return Filing</p>

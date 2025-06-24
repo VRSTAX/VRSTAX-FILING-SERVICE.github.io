@@ -85,11 +85,11 @@
   <header>
     <h1>Welcome to VRS Tax Filing Services</h1>			
     <p>Professional GST, TDS, TCS, and Income Tax Return Filing</p>
- <div class="highlight-banner">
+
    <marquee behavior="scroll" direction="left"scrollamount="6">
     🔔 <strong>GST Return : Free of Cost up to 15 records, More than 15 records Rs.450/month</strong> 🔔
   </marquee>
-</div>
+
   </header>
   <nav>
     <a href="#services">Services</a>

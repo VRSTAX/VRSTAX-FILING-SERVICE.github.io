@@ -82,7 +82,6 @@
   </style>
 </head>
 <body>
-
   <header>
     <h1>Welcome to VRS Tax Filing Services</h1>			
     <p>Professional GST, TDS, TCS, and Income Tax Return Filing</p>
@@ -99,7 +98,6 @@
     <a href="#contact">Contact</a>
     <a href="#upload">Upload Docs</a>
   </nav>
-
   <section id="services">
     <h2>Our Services</h2>
     <ul>
@@ -109,12 +107,10 @@
       <li>Tax Notice Handling & Consultancy</li>
     </ul>
   </section>
-
   <section id="about">
     <h2>About Me</h2>
     <p>I am a professional tax accountant with over 17 years of experience in private limited companies. I specialize in GST, TDS, TCS, and Income Tax services. Now offering direct services to individuals and businesses for better financial outcomes.</p>
   </section>
-
   <section id="pricing">
     <h2>Pricing Plans</h2>
     <ul>
@@ -125,37 +121,29 @@
       <li><strong>Business ITR:</strong> Rs. 1000/-</li>
     </ul>
   </section>
-
   <section id="contact">
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:raghuvnpuram@gmail.com">raghuvnpuram@gmail.com</a></p>
     <p>Phone / WhatsApp: <a href="tel:+918825996221">+91-8825996221</a></p>
     <a href="mailto:raghuvnpuram@gmail.com" class="button">Send Email</a>
   </section>
-
   <section id="upload">
     <h2>Upload Documents</h2>
     <form action="#" method="post" enctype="multipart/form-data">
       <label for="name">Full Name:</label>
       <input type="text" id="name" name="name" required>
-
       <label for="email">Email Address:</label>
       <input type="email" id="email" name="email" required>
-
       <label for="phone">Phone Number:</label>
       <input type="text" id="phone" name="phone" required>
-
       <label for="doc">Upload Your Documents (PDF/JPG):</label>
       <input type="file" id="doc" name="document" accept=".pdf,.jpg,.jpeg,.png" required>
-
       <button type="submit" class="button">Submit</button>
     </form>
   </section>
-
   <footer>
     <p>&copy; 2025 VRS Tax Filing Services. All Rights Reserved.</p>
   </footer>
-
 </body>
 </html>
 

@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="google-site-verification" content="qyrMa_wW4P_EgNcnjhkmIpi532fjtutR6jAZu_I8Jxo" />
   <title>VRS Tax Filing Services</title>
-  <style>
+  <meta name="google-site-verification" content="qyrMa_wW4P_EgNcnjhkmIpi532fjtutR6jAZu_I8Jxo" />
+    <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;

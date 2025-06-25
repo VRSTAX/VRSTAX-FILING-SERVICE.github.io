@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8" />
   <title>VRS Tax Filing Services</title>
   <meta name="google-site-verification" content="qyrMa_wW4P_EgNcnjhkmIpi532fjtutR6jAZu_I8Jxo" />
     <style>
